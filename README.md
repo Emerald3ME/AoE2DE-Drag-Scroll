@@ -2,16 +2,16 @@
 
 # Age of Empires II: Definitive Edition - Drag Scroll
 
-Adds drag scrolling to Age of Empires II: Definitive Edition. Hold middle mouse and drag to pan the camera, same as SC2. That's it.
+Adds drag scrolling to Age of Empires II: Definitive Edition. Hold middle mouse (or whichever bind you like) and drag to pan the camera, similarly to what you might find in games like StarCraft II.
 
-Fork of [asieradzk's original script](https://github.com/asieradzk/AoE2Mouse_Camera_Drag), kept alive with updated offsets. Original author stepped away so I'm maintaining it here.
+Fork of [asieradzk's original script](https://github.com/asieradzk/AoE2Mouse_Camera_Drag), which aims to keep this functional throughout all future updates. 
 
 ---
 
 ## Requirements
 
 - [AutoHotkey](https://www.autohotkey.com/) installed
-- Run the script as **administrator** or it won't be able to read the game's memory
+- Run the script as **administrator** to avoid any potential permissions conflicts. 
 
 ---
 
@@ -20,7 +20,7 @@ Fork of [asieradzk's original script](https://github.com/asieradzk/AoE2Mouse_Cam
 1. Download `AoE2DE-Drag-Scroll.ahk`
 2. Right-click it and hit **Run as administrator**
 3. Load into a game
-4. Hold middle mouse and drag to pan
+4. Hold middle mouse (default key) and drag to pan
 
 To stop the script, right-click the AutoHotkey icon in your taskbar and hit Exit.
 To reload after making changes, press **Ctrl+Alt+R** while the script is running.
