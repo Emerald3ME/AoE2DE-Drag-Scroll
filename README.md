@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Age of Empires II: Definitive Edition - Drag Scroll
 
 Adds drag scrolling to Age of Empires II: Definitive Edition. Hold middle mouse and drag to pan the camera, same as SC2. That's it.
