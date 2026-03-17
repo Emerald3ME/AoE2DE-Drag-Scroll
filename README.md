@@ -2,6 +2,9 @@
 
 # Age of Empires II: Definitive Edition - Drag Scroll
 
+
+> *TO BE UPDATED TO WORK WITH LATEST UPDATE*
+
 Adds drag scrolling to Age of Empires II: Definitive Edition. Hold middle mouse (or whichever bind you like) and drag to pan the camera, similarly to what you might find in games like StarCraft II.
 
 Fork of [asieradzk's original script](https://github.com/asieradzk/AoE2Mouse_Camera_Drag), which aims to keep this functional throughout all future updates.
